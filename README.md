@@ -14,8 +14,7 @@ I'm a back-end developer with a love for game development. All of my projects ar
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg](https://user-images.githubusercontent.com/103117267/233441084-37cb748c-a3d1-4204-a2c3-7d0c0821f287.jpg
-)" />
+<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="![OIP](https://user-images.githubusercontent.com/103117267/233441084-37cb748c-a3d1-4204-a2c3-7d0c0821f287.jpg)" />
 
           
 
