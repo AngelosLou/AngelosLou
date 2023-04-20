@@ -31,6 +31,3 @@ I'm a back-end developer with a love for game development. All of my projects ar
 
 #
 
-            <img src="" />
-          
-#
