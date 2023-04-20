@@ -1,4 +1,4 @@
-*🎮 Angelos Loukas
+#🎮 Angelos Loukas
 
 **`Undergraduate of Electrical and Computer Engineering at NTUA Greece`**
 
